@@ -1,0 +1,6 @@
+    216            ! natom
+    100            ! nbin
+    500            ! nconfig
+     10.0          ! distance
+armd.cdt
+armd.rdf
